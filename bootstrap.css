@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.tables{
+    margin-left: 200px;
+}
+.table2 h2{
+    margin-left: 118px;
+    margin-top: 25px;
+}
+.table2 ul{
+    margin-left: 160px;
+    margin-top: 25px;
+}
+.table3{
+    margin-left: 135px;
+    margin-top: 45px;
+}
+.dic{
+    margin: 15px;
+}
+.col-lg-2{
+    margin: 25px;
+}
